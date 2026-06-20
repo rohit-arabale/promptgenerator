@@ -1,7 +1,5 @@
 # promptgenerator by Rohit Arabale
 
-![OG Image](https://www.promptgenerator.pro/og.png)
-
 A modern web application developed by **Rohit Arabale** to help users create precise, effective AI prompts with intelligent assistance. Built with Next.js and OpenAI.
 
 ## Developer
@@ -9,7 +7,6 @@ A modern web application developed by **Rohit Arabale** to help users create pre
 This project is designed, developed, and maintained by **Rohit Arabale**.
 
 - GitHub: [rohit-arabale](https://github.com/rohit-arabale)
-- Portfolio: [cleverdeveloper.in](https://www.cleverdeveloper.in)
 - Repository: [rohit-arabale/promptgenerator](https://github.com/rohit-arabale/promptgenerator)
 
 ## Features
@@ -141,8 +138,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Developer: Rohit Arabale
 
 GitHub: [rohit-arabale](https://github.com/rohit-arabale)
-
-Portfolio: [cleverdeveloper.in](https://www.cleverdeveloper.in)
 
 ## Acknowledgments
 
